@@ -1,0 +1,1 @@
+lrwxr-xr-x@ 1 root  wheel    11B 17 Out 06:51 /tmp -> private/tmp
